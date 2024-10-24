@@ -1,7 +1,7 @@
 <h1 style="text-align:center;">Motomon</h1>
- 
-##Text tabanlı Motoko ile yazılmış ve ICPde çalışan bir oyun
-##Tüm pokemonları yakalayın!
+ <br>
+##Text tabanlı Motoko ile yazılmış ve ICPde çalışan bir oyun<br>
+##Tüm pokemonları yakalayın!<br>
 **getStarter** İlk pokemonunuzu almanızı sağlar.
 **walkInWild** İle vahşi pokemonlarla karşılaşırsınız.
 **attack** Şu anki pokemonunuzun vahşi pokemona saldırmasını sağlar. Ardından saldırma sırası vahşi pokemona geçecektir. Savaşın hangi tür pokemonlar arasında olduğunu unutmayın, bazı pokemonlar diğerlerine iki kat fazla veya az hasar verebilir.
