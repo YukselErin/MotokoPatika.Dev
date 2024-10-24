@@ -1,3 +1,4 @@
+<head>
 <style>
 p.small {
   line-height: 0.7;
@@ -7,6 +8,7 @@ p.big {
   line-height: 1.8;
 }
 </style>
+</head>
 
 <h1 style="text-align:center;">Motomon</h1>
  <br>
