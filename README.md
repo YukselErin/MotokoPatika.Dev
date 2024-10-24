@@ -1,4 +1,4 @@
-#Motomon 🐹
+#Motomon 
 ##Text tabanlı Motoko ile yazılmış ve ICPde çalışan bir oyun
 ##Tüm pokemonları yakalayın!
 **getStarter** İlk pokemonunuzu almanızı sağlar.
